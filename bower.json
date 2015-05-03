@@ -10,6 +10,13 @@
     "jquery",
     "bootstrap"
   ],
+  "main": [
+    "js/ace-elements.js",
+    "js/ace.js",
+    "js/ace-extra.js",
+    "css/ace-fonts.css",
+    "css/ace.css"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
