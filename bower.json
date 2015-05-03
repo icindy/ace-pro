@@ -1,0 +1,21 @@
+{
+  "name": "ace-pro",
+  "version": "0.0.0",
+  "authors": [
+    "icindy <uestc.zhangdi@gmail.com>"
+  ],
+  "description": "ace for admin",
+  "keywords": [
+    "ace",
+    "jquery",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
